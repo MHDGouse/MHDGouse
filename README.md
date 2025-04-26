@@ -7,7 +7,7 @@ Web Developer
 love to code!!
 
 * 🌍  I'm based in Bangalore India
-* ✉️  You can contact me at [gpasha798@gmail.com](mailto:mhdgousedev@gmail.com )
+* ✉️  You can contact me at [mhdgousedev@gmail.com](mailto:mhdgousedev@gmail.com )
 * 🧠  I'm learning React.js Node.js Express.js
 * 🤝  I'm open to collaborating on Web Development
 
