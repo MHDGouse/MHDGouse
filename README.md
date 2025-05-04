@@ -1,15 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Gouse
 ======================================================================================================================================
 
-Web Developer
--------------
+I’m a Full-Stack Web Developer based in Bangalore, India, specializing in building performant, scalable applications using modern JavaScript frameworks and cloud-native architectures.
 
-love to code!!
+- 🌐 **Location:** Bangalore, India  
+- 📬 **Email:** [mhdgousedev@gmail.com](mailto:mhdgousedev@gmail.com)  
+- 🔧 **Tech Stack:**  
+  - **Frontend:** React.js, Next.js, Tailwind CSS  
+  - **Backend:** Node.js, Express.js, MongoDB, REST & GraphQL  
+  - **DevOps:** Docker, AWS (S3, EC2), CI/CD (GitHub Actions)  
+- 🌱 **Currently Learning:** Advanced React patterns, TypeScript, Kubernetes  
+- 🚀 **Portfolio:** [mhdgouse-dev.vercel.app](https://mhdgouse-dev.vercel.app)  
+- 🤝 **Let’s Collaborate:** Always open to teaming up on innovative web projects and startups!
 
-* 🌍  I'm based in Bangalore India
-* ✉️  You can contact me at [mhdgousedev@gmail.com](mailto:mhdgousedev@gmail.com )
-* 🧠  I'm learning React.js Node.js Express.js
-* 🤝  I'm open to collaborating on Web Development
+> “Writing clean, maintainable code is not just a practice — it’s a mindset.”
+
 
 ### Skills
 
