@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohammed Gouse
 ======================================================================================================================================
 
-I’m a Full-Stack Web Developer based in Bangalore, India, specializing in building performant, scalable applications using modern JavaScript frameworks and cloud-native architectures.
+I’m a Full-Stack Developer based in Bangalore, India, specializing in building performant, scalable applications using modern JavaScript frameworks and cloud-native architectures.
 
 - 🌐 **Location:** Bangalore, India  
 - 📬 **Email:** [mhdgousedev@gmail.com](mailto:mhdgousedev@gmail.com)  
