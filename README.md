@@ -10,7 +10,7 @@ I’m a Full-Stack Web Developer based in Bangalore, India, specializing in buil
   - **Backend:** Node.js, Express.js, MongoDB, REST & GraphQL  
   - **DevOps:** Docker, AWS (S3, EC2), CI/CD (GitHub Actions)  
 - 🌱 **Currently Learning:** Advanced React patterns, TypeScript, Kubernetes  
-- 🚀 **Portfolio:** [mhdgouse-dev.vercel.app](https://mhdgouse-dev.vercel.app)  
+- 🚀 **Portfolio:** [mhdgouse-dev.vercel.app](https://mhdgouse.me)  
 - 🤝 **Let’s Collaborate:** Always open to teaming up on innovative web projects and startups!
 
 > “Writing clean, maintainable code is not just a practice — it’s a mindset.”
